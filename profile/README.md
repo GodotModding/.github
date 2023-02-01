@@ -6,6 +6,15 @@
 | [ModLoader](https://github.com/GodotModding/godot-mod-loader) | Universal mod loader for any Godot game |
 | [ModLoader Examples](https://github.com/GodotModding/godot-mod-loader-examples) | Heavily commented examples of ModLoader mods |
 
+## Other ModLoader Repos
+
+Repos and orgs that are related to ModLoader.
+
+| Name | Notes |
+| ---- | ----- |
+| [BrotatoMods](https://github.com/BrotatoMods) | GitHub org collecting loads of [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader |
+| [Godot Workshop Utility](https://github.com/thomasgvd/godot-workshop-utility) | Tool for uploading ModLoader mods via the Steam Workshop, built by Blobfish |
+
 ## Other Repos
 
 These aren't part of the GodotModding org, but the code here is still worth checking out. Most of these were developed and published before [ModLoader](https://github.com/GodotModding/godot-mod-loader).
@@ -16,7 +25,6 @@ These aren't part of the GodotModding org, but the code here is still worth chec
 | [YomiHustle](https://ivysly.itch.io/your-only-move-is-hustle) | [YomiModding](https://gitlab.com/ZT2wo/YomiModding/-/blob/main/MODDING.md) | "Your Only Move is Hustle". Based on the Delta-V loader. |
 | [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) | [crus-modloader](https://github.com/crustyrashky/crus-modloader) | See also: [crus-modbase](https://github.com/crustyrashky/crus-modbase) |
 | [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/) | [LBAL-Modding](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) | Official API from the game's devs. <br>The game has Steam Workshop support. |
-| [Brotato](https://store.steampowered.com/app/1942280/Brotato/) | [BrotatoMods](https://github.com/BrotatoMods) | GitHub org collecting loads of Brotato mods.<br>All mods use [ModLoader](https://github.com/GodotModding/godot-mod-loader). |
 
 ## Tooling
 
