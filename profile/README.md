@@ -1,6 +1,8 @@
 
 ## ModLoader
 
+These repos are on this [GodotModding](https://github.com/GodotModding) GitHub org.
+
 | Name | Description |
 | ---- | ----------- |
 | [ModLoader](https://github.com/GodotModding/godot-mod-loader) | Universal mod loader for any Godot game |
