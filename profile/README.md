@@ -29,4 +29,8 @@ These tools range from helpful to basically mandatory for Godot modding.
 | [GodotPCKExplorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) | Lightweight GUI tool. Includes a feature to extract embedded PCKs from EXEs |
 | [GodotSteam](https://github.com/Gramps/GodotSteam) | A version of Godot with inbuilt Steam SDK support. Be sure to download the editor version from the Releases page, not the plugin. |
 
+## Links
+
+- [GodotModding Discord](https://discord.gg/J5AvdFK4mw)
+
 *Docs for this special readme are [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)*
