@@ -1,18 +1,18 @@
 
-## Main Repos
+## ModLoader
 
 | Name | Description |
 | ---- | ----------- |
 | [ModLoader](https://github.com/GodotModding/godot-mod-loader) | Universal mod loader for any Godot game |
 | [ModLoader Examples](https://github.com/GodotModding/godot-mod-loader-examples) | Heavily commented examples of ModLoader mods |
 
-## Other ModLoader Repos
+## ModLoader (External)
 
-Repos and orgs that are related to ModLoader.
+External orgs and repos that are related to ModLoader.
 
 | Name | Notes |
 | ---- | ----- |
-| [BrotatoMods](https://github.com/BrotatoMods) | GitHub org collecting loads of [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader |
+| [BrotatoMods](https://github.com/BrotatoMods) | GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader |
 | [Godot Workshop Utility](https://github.com/thomasgvd/godot-workshop-utility) | Tool for uploading ModLoader mods via the Steam Workshop, built by Blobfish |
 
 ## Other Repos
