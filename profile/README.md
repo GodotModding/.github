@@ -14,19 +14,20 @@ External orgs and repos that are related to ModLoader.
 
 | Name | Notes |
 | ---- | ----- |
-| ![icon](profile/icons/16px/brotato.png)&nbsp; [BrotatoMods](https://github.com/BrotatoMods) | GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader |
+| ![icon](profile/icons/16px/brotato.png)&nbsp; [BrotatoMods](https://github.com/BrotatoMods) | GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader. Discord is [here](https://discord.gg/j39jE6k). |
 | ⚙ [Godot Workshop Utility](https://github.com/thomasgvd/godot-workshop-utility) | Tool for uploading ModLoader mods via the Steam Workshop, built by Blobfish |
 
 ## Other Repos
 
 These aren't part of the GodotModding org, but the code here is still worth checking out. Most of these were developed and published before [ModLoader](https://github.com/GodotModding/godot-mod-loader).
 
-| Game | Repo | Notes |
-| ---- | ---- | ----- |
-| ![icon](profile/icons/16px/delta-v.jpg)&nbsp; [Delta-V](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/) | [Delta-V-Modding](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main) | The basis for [ModLoader](https://github.com/GodotModding/godot-mod-loader) |
-| ![icon](profile/icons/16px/yomi-hustle.jpg)&nbsp; [YomiHustle](https://ivysly.itch.io/your-only-move-is-hustle) | [YomiModding](https://gitlab.com/ZT2wo/YomiModding/-/blob/main/MODDING.md) | "Your Only Move is Hustle". Based on the Delta-V loader. |
-| ![icon](profile/icons/16px/cruelty-squad.jpg)&nbsp; [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) | [crus-modloader](https://github.com/crustyrashky/crus-modloader) | See also: [crus-modbase](https://github.com/crustyrashky/crus-modbase) |
-| ![icon](profile/icons/16px/luck-be-a-landlord.jpg)&nbsp; [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/) | [LBAL-Modding](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) | Official API from the game's devs. <br>The game has Steam Workshop support. |
+| Game | Repo | Discord | Notes |
+| ---- | ---- | ------- | ----- |
+| ![icon](profile/icons/16px/delta-v.jpg)&nbsp; [Delta-V](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/) | [Delta-V-Modding](https://gitlab.com/Delta-V-Modding/Mods/-/tree/main) | ?? | The basis for [ModLoader](https://github.com/GodotModding/godot-mod-loader) |
+| ![icon](profile/icons/16px/yomi-hustle.jpg)&nbsp; [YomiHustle](https://ivysly.itch.io/your-only-move-is-hustle) | [YomiModding](https://gitlab.com/ZT2wo/YomiModding/-/blob/main/MODDING.md) | [Discord](https://discord.gg/yomimodding) | "Your Only Move is Hustle". Based on the Delta-V loader. |
+| ![icon](profile/icons/16px/cruelty-squad.jpg)&nbsp; [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) | [crus-modloader](https://github.com/crustyrashky/crus-modloader) | [Discord](https://discord.com/invite/qNDjTTw) | See also: [crus-modbase](https://github.com/crustyrashky/crus-modbase) |
+| ![icon](profile/icons/16px/luck-be-a-landlord.jpg)&nbsp; [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/) | [LBAL-Modding](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) | ?? | Official API from the game's devs. <br>The game also has Steam Workshop support. |
+| [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) | -- | [Discord](https://discord.gg/AxYpX7AaFP) | DK modding is still in its infancy |
 
 ## Tooling
 
