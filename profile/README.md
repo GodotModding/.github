@@ -27,7 +27,7 @@ These aren't part of the GodotModding org, but the code here is still worth chec
 | ![icon](profile/icons/16px/yomi-hustle.jpg)&nbsp; [YomiHustle](https://ivysly.itch.io/your-only-move-is-hustle) | [YomiModding](https://gitlab.com/ZT2wo/YomiModding/-/blob/main/MODDING.md) | [Discord](https://discord.gg/yomimodding) | "Your Only Move is Hustle". Based on the Delta-V loader. |
 | ![icon](profile/icons/16px/cruelty-squad.jpg)&nbsp; [Cruelty Squad](https://store.steampowered.com/app/1388770/Cruelty_Squad/) | [crus-modloader](https://github.com/crustyrashky/crus-modloader) | [Discord](https://discord.com/invite/qNDjTTw) | See also: [crus-modbase](https://github.com/crustyrashky/crus-modbase) |
 | ![icon](profile/icons/16px/luck-be-a-landlord.jpg)&nbsp; [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/) | [LBAL-Modding](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) | ?? | Official API from the game's devs. <br>The game also has Steam Workshop support. |
-| [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) | -- | [Discord](https://discord.gg/AxYpX7AaFP) | DK modding is still in its infancy |
+| ![icon](profile/icons/16px/dome-keeper.jpg)&nbsp; [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) | -- | [Discord](https://discord.gg/AxYpX7AaFP) | DK modding is still in its infancy |
 
 ## Tooling
 
