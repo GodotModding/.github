@@ -8,7 +8,11 @@ These repos are on this [GodotModding](https://github.com/GodotModding) GitHub o
 | [ModLoader](https://github.com/GodotModding/godot-mod-loader) | Universal mod loader for any Godot game |
 | [ModLoader Examples](https://github.com/GodotModding/godot-mod-loader-examples) | Heavily commented examples of ModLoader mods |
 
-## ModLoader (External)
+## Other Repos
+
+These aren't part of the GodotModding org, but the code here is still worth checking out. 
+
+### ModLoader (External)
 
 External orgs and repos that are related to ModLoader.
 
@@ -17,9 +21,9 @@ External orgs and repos that are related to ModLoader.
 | ![icon](profile/icons/16px/brotato.png)&nbsp; [BrotatoMods](https://github.com/BrotatoMods) | GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader. Discord is [here](https://discord.gg/j39jE6k). |
 | ⚙ [Godot Workshop Utility](https://github.com/thomasgvd/godot-workshop-utility) | Tool for uploading ModLoader mods via the Steam Workshop, built by Blobfish |
 
-## Other Repos
+### Games
 
-These aren't part of the GodotModding org, but the code here is still worth checking out. Most of these were developed and published before [ModLoader](https://github.com/GodotModding/godot-mod-loader).
+Other Godot games with modding support, or modding communities. Most of these were developed and published before [ModLoader](https://github.com/GodotModding/godot-mod-loader).
 
 | Game | Repo | Discord | Notes |
 | ---- | ---- | ------- | ----- |
@@ -29,16 +33,24 @@ These aren't part of the GodotModding org, but the code here is still worth chec
 | ![icon](profile/icons/16px/luck-be-a-landlord.jpg)&nbsp; [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/) | [LBAL-Modding](https://github.com/TrampolineTales/LBAL-Modding-Docs/wiki) | [Discord](https://trampolinetales.com/discord) | Official API from the game's devs. <br>The game also has Steam Workshop support. |
 | ![icon](profile/icons/16px/dome-keeper.jpg)&nbsp; [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) | -- | [Discord](https://discord.gg/AxYpX7AaFP) | DK modding is still in its infancy |
 
-## Tooling
+### Tooling
 
 These tools range from helpful to basically mandatory for Godot modding.
 
 | Name | Description |
 | ---- | ----------- |
 | [GDRETools](https://github.com/bruvzg/gdsdecomp) | Decompile Godot PCKs into a project you can open in the Godot editor.<br>Required for any level of modding |
-| [GodotPckTool](https://github.com/hhyyrylainen/GodotPckTool) | Lightweight CLI tool for adding files to PCKs, plus lots of other features |
-| [GodotPCKExplorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) | Lightweight GUI tool. Includes a feature to extract embedded PCKs from EXEs |
+| [GodotPckTool](https://github.com/hhyyrylainen/GodotPckTool) | Lightweight CLI tool for adding files to PCKs, plus lots of other features.<br>Used by ModLoader's setup process, to inject ModLoader into existing PCKs. |
+| [GodotPCKExplorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) | Lightweight GUI tool. Includes a feature to extract embedded PCKs from EXEs. |
 | [GodotSteam](https://github.com/Gramps/GodotSteam) | A version of Godot with inbuilt Steam SDK support. Be sure to download the editor version from the Releases page, not the plugin. |
+
+### Modding Alternatives
+
+Other approaches to modding that differ from ModLoader, and which aren't specific to a single game.
+
+| Name | Description |
+| ---- | ----------- |
+| [godot-wasm](https://github.com/ashtonmeuser/godot-wasm) | Interact with WebAssembly modules from Godot. |
 
 ## Links
 
