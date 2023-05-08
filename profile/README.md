@@ -51,6 +51,7 @@ Other approaches to modding that differ from ModLoader, and which aren't specifi
 | Name | Description |
 | ---- | ----------- |
 | [godot-wasm](https://github.com/ashtonmeuser/godot-wasm) | Interact with WebAssembly modules from Godot. |
+| [Modot](https://github.com/Carnagion/Modot) | C# mod loader for Godot *(doesn't appear to be actively maintained)* |
 
 ## Links
 
