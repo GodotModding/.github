@@ -19,8 +19,9 @@ External orgs and repos that are related to ModLoader.
 
 | Name | Notes |
 | ---- | ----- |
-| ![icon](profile/icons/16px/brotato.png)&nbsp; [BrotatoMods](https://github.com/BrotatoMods) | GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader. Discord is [here](https://discord.gg/j39jE6k). |
 | ⚙ [Godot Workshop Utility](https://github.com/thomasgvd/godot-workshop-utility) | Tool for uploading ModLoader mods via the Steam Workshop, built by Blobfish |
+| ![](https://avatars.githubusercontent.com/u/120222733?s=20&v=4)&nbsp;[BrotatoMods](https://github.com/BrotatoMods) | Unofficial GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. All mods use ModLoader. Discord: https://discord.gg/j39jE6k. |
+| ![](https://avatars.githubusercontent.com/u/138197518?s=20&v=4)&nbsp;[DomeKeeperMods](https://github.com/DomeKeeperMods/) | Official GitHub org for [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) mods. Has an extensive [wiki](https://github.com/DomeKeeperMods/Docs/wiki) and a nice beginner tutorial. Discord: https://discord.gg/AxYpX7AaFP.
 
 ### Games
 
