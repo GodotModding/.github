@@ -58,5 +58,3 @@ Other approaches to modding that differ from ModLoader, and which aren't specifi
 ## Links
 
 - [GodotModding Discord](https://discord.gg/J5AvdFK4mw)
-
-*Docs for this special readme are [here](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)*
