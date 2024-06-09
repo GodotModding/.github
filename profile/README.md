@@ -8,6 +8,7 @@ These repos are on this [GodotModding](https://github.com/GodotModding) GitHub o
 | [ModLoader](https://github.com/GodotModding/godot-mod-loader) | Universal mod loader for any Godot game |
 | [ModLoader Examples](https://github.com/GodotModding/godot-mod-loader-examples) | Heavily commented examples of ModLoader mods |
 | [Development Tool](https://github.com/GodotModding/godot-mod-tool) | Tool to improve the development experience when creating Godot Mod Loader mods |
+| [Mod Loader Wiki](https://github.com/GodotModding/gmlwiki) | Better documentation for the Mod Loader |
 
 ## Other Repos
 
