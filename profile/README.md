@@ -56,8 +56,10 @@ Other approaches to modding that differ from ModLoader, and which aren't specifi
 | [godot-wasm](https://github.com/ashtonmeuser/godot-wasm) | Interact with WebAssembly modules from Godot. |
 | [Godot Lua API](https://github.com/WeaselGames/godot_luaAPI) | allows you to create custom Modding API's in a sandboxed environment |
 | [GDLuau](https://github.com/Manonox/GDLuau) | Enables modding with Luau |
-| [Modot](https://github.com/Carnagion/Modot) | C# mod loader for Godot *(doesn't appear to be actively maintained)* |
 | [mod.io godot](https://github.com/aNaOH/modio-godot) | Mod.io UGC and mod toolkit integration |
+| [GodotCSharpMod](https://github.com/SlejmUr/GodotCSharpMod) | New C# mod loader for Godot |
+| [Modot](https://github.com/Carnagion/Modot) | C# mod loader for Godot *(doesn't appear to be actively maintained)* |
+
 
 ## Links
 
