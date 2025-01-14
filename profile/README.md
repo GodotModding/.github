@@ -61,7 +61,7 @@ Other approaches to modding that differ from ModLoader, and which aren't specifi
 | [GodotCSharpMod](https://github.com/SlejmUr/GodotCSharpMod) | New C# mod loader for Godot |
 | [Modot](https://github.com/Carnagion/Modot) | C# mod loader for Godot *(doesn't appear to be actively maintained)* |
 | [godot-sandbox](https://github.com/libriscv/godot-sandbox) | Work in progress. Safe, low-latency and fast sandbox, currently supports modding in C++ and Rust |
-
+| [GDWeave](https://github.com/NotNite/GDWeave) | a mod loader & runtime script patcher for godot 3.5 |
 
 ## Links
 
