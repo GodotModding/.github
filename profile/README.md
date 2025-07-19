@@ -21,9 +21,10 @@ External orgs and repos that are related to ModLoader.
 | Name | Notes | Discord |
 | ---- | ----- | ------- |
 | ⚙ [Godot Workshop Utility](https://github.com/thomasgvd/godot-workshop-utility) | Tool for uploading ModLoader mods via the Steam Workshop, built by Blobfish | - |
-| ![](https://avatars.githubusercontent.com/u/120222733?s=20&v=4)&nbsp;[BrotatoMods](https://github.com/BrotatoMods) | Unofficial GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. | [Discord](https://discord.gg/j39jE6k.) |
-| ![](https://avatars.githubusercontent.com/u/138197518?s=20&v=4)&nbsp;[DomeKeeperMods](https://github.com/DomeKeeperMods/) | Official GitHub org for [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) mods. Features an extensive [wiki](https://github.com/DomeKeeperMods/Docs/wiki) and a nice beginner tutorial. | [Discord](https://discord.gg/AxYpX7AaFP.) |
-| [Windowkill Modding](https://torcado.com/windowkill/mods/modding.html) | Official guide to getting started with modding in [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/) | [Discord](https://discord.gg/RNGxeZJTHr)
+| ![](https://avatars.githubusercontent.com/u/120222733?s=20&v=4)&nbsp;[BrotatoMods](https://github.com/BrotatoMods) | Unofficial GitHub org for [Brotato](https://store.steampowered.com/app/1942280/Brotato/) mods. | [Discord](https://discord.gg/j39jE6k) |
+| ![](https://avatars.githubusercontent.com/u/138197518?s=20&v=4)&nbsp;[DomeKeeperMods](https://github.com/DomeKeeperMods/) | Official GitHub org for [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) mods. Features an extensive [wiki](https://github.com/DomeKeeperMods/Docs/wiki) and a nice beginner tutorial. | [Discord](https://discord.gg/AxYpX7AaFP) |
+| [Windowkill Modding](https://torcado.com/windowkill/mods/modding.html) | Official guide to getting started with modding in [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/) | [Discord](https://discord.gg/RNGxeZJTHr) |
+| ![](https://avatars.githubusercontent.com/u/221388887?s=20&v=4)&nbsp;[The Deadseat Modding](https://github.com/DeadseatModding) | Offical Github org for [The Deadseat](https://store.steampowered.com/app/3667230/The_Deadseat/) mods. | [Discord](https://discord.com/invite/hnAY7DGPcS) |
 
 ### Moddable Godot games using different systems
 
